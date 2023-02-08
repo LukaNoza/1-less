@@ -29,3 +29,20 @@ p {
     margin-inline-start: 0px;
     margin-inline-end: 0px;
 }
+
+.img {
+    border: 1px solid #a2a9b1;
+    border-spacing: 3px;
+    background-color: #f8f9fa;
+    color: black;
+    margin: 0.5em 0 0.5em 1em;
+    padding: 0.2em;
+    float: right;
+    clear: right;
+    font-size: 88%;
+    line-height: 1.5em;
+    width: 22em;
+}
+div {
+    margin-top: 35px;
+}
